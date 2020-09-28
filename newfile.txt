@@ -3,3 +3,6 @@ add - is a git command used to add a file that is revised or created to the stag
 commit - is actual save of files from the staging area to the local repository. this served also as a record of changes occured to the repository.
 
 push -  is used to upload the changes on commit on your local repository to the remote repository. This is how you transfer your commits from local to remote. Push is the counterpart of fetch, fetch is importing changes from remote to your local repository.
+
+
+//this comment is edited on github
